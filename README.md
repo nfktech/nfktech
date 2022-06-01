@@ -1,6 +1,8 @@
 <h1> Hi There! I am Noor Fatima<h1>
   
-  
+<p style="background-color:#00ffff">
+  I am Student (Software Engineeiniging) at IBU Bahalpor Pakistan
+</p>
 
 
 ### Hi there 👋
